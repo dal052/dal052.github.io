@@ -6,7 +6,7 @@
 body {
   font-family: "Courier New", Courier, monospace;
   overflow-x: hidden;
-  word-wrap:break-word;
+  word-wrap: break-word;
 }
 ul,
 p {
